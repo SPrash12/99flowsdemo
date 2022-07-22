@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T14:50:23 IST" name="99 flows test Automation suit" finished-at="2022-07-18T14:51:36 IST" duration-ms="73209">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T14:50:23 IST" name="99 flows test cases" finished-at="2022-07-18T14:51:36 IST" duration-ms="73209">
+      <class name="com.app.testcases.loginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.app.testcases.loginPageTest@c267ef4]" started-at="2022-07-18T14:50:23 IST" name="setUp" finished-at="2022-07-18T14:50:33 IST" duration-ms="10568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.app.testcases.loginPageTest@c267ef4]" started-at="2022-07-18T14:50:33 IST" name="loginPageTitleTest" finished-at="2022-07-18T14:50:33 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.app.testcases.loginPageTest@c267ef4]" started-at="2022-07-18T14:50:33 IST" name="tearDown" finished-at="2022-07-18T14:50:34 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.app.testcases.loginPageTest@c267ef4]" started-at="2022-07-18T14:50:34 IST" name="setUp" finished-at="2022-07-18T14:50:36 IST" duration-ms="2689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.app.testcases.loginPageTest@c267ef4]" started-at="2022-07-18T14:50:36 IST" name="loginTest" finished-at="2022-07-18T14:50:37 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.app.testcases.loginPageTest@c267ef4]" started-at="2022-07-18T14:50:37 IST" name="tearDown" finished-at="2022-07-18T14:50:37 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.app.testcases.loginPageTest -->
+      <class name="com.app.testcases.flowsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:11 IST" name="setup" finished-at="2022-07-18T14:51:14 IST" duration-ms="2999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonFlowsTest()[pri:1, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:14 IST" name="clickonFlowsTest" finished-at="2022-07-18T14:51:15 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonFlowsTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:15 IST" name="teardown" finished-at="2022-07-18T14:51:15 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:15 IST" name="setup" finished-at="2022-07-18T14:51:17 IST" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNameflowTest()[pri:2, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:17 IST" name="verifyNameflowTest" finished-at="2022-07-18T14:51:18 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameflowTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:18 IST" name="teardown" finished-at="2022-07-18T14:51:19 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:19 IST" name="setup" finished-at="2022-07-18T14:51:21 IST" duration-ms="2818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyClickOnCreateFlowTest()[pri:3, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:21 IST" name="verifyClickOnCreateFlowTest" finished-at="2022-07-18T14:51:25 IST" duration-ms="3772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickOnCreateFlowTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:25 IST" name="teardown" finished-at="2022-07-18T14:51:25 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:25 IST" name="setup" finished-at="2022-07-18T14:51:28 IST" duration-ms="2992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifycreateFlowNameTest()[pri:4, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:28 IST" name="verifycreateFlowNameTest" finished-at="2022-07-18T14:51:32 IST" duration-ms="4083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycreateFlowNameTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.flowsPageTest@55b7a4e0]" started-at="2022-07-18T14:51:32 IST" name="teardown" finished-at="2022-07-18T14:51:32 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.testcases.flowsPageTest -->
+      <class name="com.app.testcases.datasetPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.datasetPageTest@5f058f00]" started-at="2022-07-18T14:51:32 IST" name="setup" finished-at="2022-07-18T14:51:35 IST" duration-ms="2849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNameDatasetTest()[pri:0, instance:com.app.testcases.datasetPageTest@5f058f00]" started-at="2022-07-18T14:51:35 IST" name="verifyNameDatasetTest" finished-at="2022-07-18T14:51:36 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameDatasetTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.app.testcases.datasetPageTest@5f058f00]" started-at="2022-07-18T14:51:36 IST" name="tearDown" finished-at="2022-07-18T14:51:36 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.app.testcases.datasetPageTest -->
+      <class name="com.app.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:37 IST" name="setup" finished-at="2022-07-18T14:50:40 IST" duration-ms="3173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePagetitleTest()[pri:1, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:40 IST" name="HomePagetitleTest" finished-at="2022-07-18T14:50:40 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePagetitleTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:40 IST" name="teardown" finished-at="2022-07-18T14:50:40 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:40 IST" name="setup" finished-at="2022-07-18T14:50:43 IST" duration-ms="2903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomepageInboxTest()[pri:2, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:43 IST" name="verifyHomepageInboxTest" finished-at="2022-07-18T14:50:44 IST" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageInboxTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:44 IST" name="teardown" finished-at="2022-07-18T14:50:44 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:44 IST" name="setup" finished-at="2022-07-18T14:50:47 IST" duration-ms="3072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonFlowsTest()[pri:3, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:47 IST" name="clickonFlowsTest" finished-at="2022-07-18T14:50:48 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonFlowsTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:48 IST" name="teardown" finished-at="2022-07-18T14:50:48 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:48 IST" name="setup" finished-at="2022-07-18T14:50:51 IST" duration-ms="3246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnDatasetTest()[pri:4, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:51 IST" name="clickOnDatasetTest" finished-at="2022-07-18T14:50:52 IST" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnDatasetTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:52 IST" name="teardown" finished-at="2022-07-18T14:50:52 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:52 IST" name="setup" finished-at="2022-07-18T14:50:55 IST" duration-ms="2746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProfileImageTest()[pri:5, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:55 IST" name="verifyProfileImageTest" finished-at="2022-07-18T14:50:55 IST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfileImageTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:55 IST" name="teardown" finished-at="2022-07-18T14:50:55 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:56 IST" name="setup" finished-at="2022-07-18T14:50:59 IST" duration-ms="2913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createFlowTest(java.lang.String,java.lang.String)[pri:6, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:50:59 IST" name="createFlowTest" data-provider="getflowNameTest" finished-at="2022-07-18T14:51:03 IST" duration-ms="4328" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Qa-Demo1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[For testing purpose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFlowTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:51:03 IST" name="teardown" finished-at="2022-07-18T14:51:03 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:51:03 IST" name="setup" finished-at="2022-07-18T14:51:06 IST" duration-ms="3051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createFlowTest(java.lang.String,java.lang.String)[pri:6, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:51:06 IST" name="createFlowTest" data-provider="getflowNameTest" finished-at="2022-07-18T14:51:11 IST" duration-ms="4368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation-1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Automation Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFlowTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.testcases.HomePageTest@6eda5c9]" started-at="2022-07-18T14:51:11 IST" name="teardown" finished-at="2022-07-18T14:51:11 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.testcases.HomePageTest -->
+    </test> <!-- 99 flows test cases -->
+  </suite> <!-- 99 flows test Automation suit -->
+</testng-results>
